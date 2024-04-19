@@ -10,7 +10,7 @@ st.title("welcome kiran gajjana")
 #header
 st.header("Kiran Gajjana")
 #subheader
-st.subheader("Tech Mahindra")
+# st.subheader("Tech Mahindra")
 #information details
 st.info(" new information  is added here")
 #warning
