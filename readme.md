@@ -46,3 +46,5 @@ pip install streamlit
 # Dependencies
 - Streamlit: The app is built using the Streamlit framework.
 - Time: Used for time-related operations.
+# Demo
+You can access a live demo of the app <https://kirangajjana-streamlit-new-ahwkrh.streamlit.app/>.
