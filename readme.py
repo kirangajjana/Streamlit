@@ -1,4 +1,4 @@
-## Introduction
+#  Introduction
 - This documentation provides an overview of a Streamlit web application designed to welcome users and collect their information using various input widgets.
 
 ## Overview
