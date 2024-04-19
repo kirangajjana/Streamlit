@@ -7,7 +7,7 @@
 ## Usage
 - To run the Streamlit app locally, follow these steps:
 
-1.Install Streamlit: Make sure you have Streamlit installed. If not, you can install it via pip:
+1. Install Streamlit: Make sure you have Streamlit installed. If not, you can install it via pip:
 
 ``` python
 pip install streamlit
@@ -22,3 +22,27 @@ pip install streamlit
  ```python
  streamlit run app.py
 ```
+# Features
+1. Welcome Message: Displays a welcome message to the user.
+2. Sidebar: Contains input fields for name and password, along with a submit button.
+3. User Information: Displays user details such as name, company, etc.
+## Input Widgets:
+-Text input
+- Checkbox
+- Button
+- Radio button
+- Select box
+- Multiselect
+- Select slider
+- Slider
+- Number input
+- Date input
+- Time input
+- Text area
+- File uploader
+- Color picker
+- Spinner and Balloons: Displays spinner and balloons for a fun visual effect.
+
+# Dependencies
+- Streamlit: The app is built using the Streamlit framework.
+- Time: Used for time-related operations.
