@@ -12,3 +12,13 @@
 ``` python
 pip install streamlit
 ```
+
+2. Clone the Repository: Clone this GitHub repository to your local machine.
+
+3. Navigate to the Directory: Open a terminal and navigate to the directory where the app code is located.
+
+4. Run the App: Run the following command to launch the Streamlit app:
+ 
+ ```python
+ streamlit run app.py
+```
